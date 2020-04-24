@@ -3,4 +3,4 @@ services:
     simple-chat-server:
         build: .
         ports: 
-            - 8000:3000
+            - 8000:3333
